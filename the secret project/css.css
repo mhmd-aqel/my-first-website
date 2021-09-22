@@ -1,0 +1,16 @@
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-image: url(./images/st-joseph-church_00437661.jpg);
+    background-color: white;
+}
